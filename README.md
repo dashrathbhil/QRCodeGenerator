@@ -35,8 +35,8 @@ Make sure you have the following installed:
 1. **Clone the repository** (or download the project files):
 
 ```bash
-git clone https://github.com/your-username/qr-code-generator.git
-cd qr-code-generator
+git clone https://github.com/dashrathbhil/QRCodeGenerator
+cd 
 ```
 
 2. **Install dependencies:**
@@ -57,11 +57,6 @@ Start the development server with:
 npm start
 # or
 yarn start
-```
-
-This will open the app in your browser at [http://localhost:3000](http://localhost:3000).
-
----
 
 ### Building for Production
 
@@ -88,7 +83,7 @@ This will generate optimized static files in the `build` folder, ready for deplo
 ## Project Structure
 
 ```
-qr-code-generator/
+QRCodeGenerator/
 ├── public/
 ├── src/
 │   ├── QRGenerator.jsx  (Main component)
